@@ -1,0 +1,14 @@
+{
+  "name": "menu-image-hover-effects-poc",
+  "version": "0.0.1",
+  "description": "menu image hover effects",
+  "author": "Grégoire Ciles",
+  "private": true,
+  "scripts": {
+    "start": "parcel src/index.html --open"
+  },
+  "devDependencies": {
+    "gsap": "^3.6.0",
+    "parcel-bundler": "^1.12.4"
+  }
+}
